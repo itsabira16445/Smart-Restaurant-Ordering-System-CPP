@@ -1,0 +1,24 @@
+===============
+Restaurant Bill
+===============
+Customer Name :Abira
+Item Name     :Pizza
+Price         :1200
+Quantity      :3
+--------------
+Total         :3600
+==============
+Thank You!
+==============
+===============
+Restaurant Bill
+===============
+Customer Name :Abira
+Item Name     :Pizza
+Price         :1200
+Quantity      :3
+--------------
+Total         :3600
+==============
+Thank You!
+==============
