@@ -83,3 +83,39 @@ In future versions, I plan to add:
 
 Computer Engineering Student  
 Learning C++, Git, and GitHub.
+ 
+## Project Screenshots
+
+### Home Screen
+
+![Home Screen](images/home-screen.png.gif)
+
+---
+
+### Food Menu
+
+![Food Menu](images/food-menu.png.gif)
+
+---
+
+### Order Process
+
+![Order Process](images/order-process.png.gif)
+
+---
+
+### Generated Bill
+
+![Generated Bill](images/generated-bill.png.gif)
+
+---
+
+### Order Confirmation
+
+![Order Confirmation](images/order-confirmed.png.gif)
+
+---
+
+### Saved Orders (orders.txt)
+
+![Orders File](images/orders-file.png.gif)
